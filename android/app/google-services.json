@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366650181362",
+    "project_id": "phone-login-caf1b",
+    "storage_bucket": "phone-login-caf1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366650181362:android:3650b34b6a188000d7326b",
+        "android_client_info": {
+          "package_name": "com.example.phone_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366650181362-3epqle8bhi9qg8a85aq7dpj4ofej1pe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_login",
+            "certificate_hash": "02ba2fdf5f1a49e87e2e6d823b6a047daa153a67"
+          }
+        },
+        {
+          "client_id": "366650181362-svfu26v3o0me7l1el96j2l5nnl35qnds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeFr6YVb-Frc6-ssxQI-1tM0jlbbrDVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366650181362-svfu26v3o0me7l1el96j2l5nnl35qnds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
